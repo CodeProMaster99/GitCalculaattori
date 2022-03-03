@@ -1,0 +1,7 @@
+C:\Users\s2000923\source\repos\GitCalculaattori\bin\Debug\GitCalculaattori.exe.config
+C:\Users\s2000923\source\repos\GitCalculaattori\bin\Debug\GitCalculaattori.exe
+C:\Users\s2000923\source\repos\GitCalculaattori\bin\Debug\GitCalculaattori.pdb
+C:\Users\s2000923\source\repos\GitCalculaattori\obj\Debug\GitCalculaattori.csproj.AssemblyReference.cache
+C:\Users\s2000923\source\repos\GitCalculaattori\obj\Debug\GitCalculaattori.csproj.CoreCompileInputs.cache
+C:\Users\s2000923\source\repos\GitCalculaattori\obj\Debug\GitCalculaattori.exe
+C:\Users\s2000923\source\repos\GitCalculaattori\obj\Debug\GitCalculaattori.pdb

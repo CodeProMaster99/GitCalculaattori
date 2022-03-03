@@ -15,8 +15,23 @@ namespace GitCalculaattori
             int eka = Convert.ToInt32(Console.ReadLine());
             Console.WriteLine("Anna toka numero");
             int toka = Convert.ToInt32(Console.ReadLine());
-            Console.WriteLine("Summa : " + (eka + toka));
-            Console.WriteLine("Erotus : " + (eka - toka));
+            Console.WriteLine("Kumpi tulostetaan: summa vai erotus?");
+            string which = Console.ReadLine();
+            Console.WriteLine("\n");
+            if (which == "summa")
+            {
+                Console.WriteLine("Summa : " + (eka + toka));
+            }
+            else if (which == "erotus")
+            {
+                Console.WriteLine("Erotus : " + (eka - toka));
+            }
+            else
+            {
+                Console.WriteLine("Jotain meni pieleen! Kokeile uudelleen");
+            }
+
+
             Thread.Sleep(3000);
 
 

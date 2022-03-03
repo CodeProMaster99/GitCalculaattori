@@ -16,7 +16,6 @@ namespace GitCalculaattori
             Console.WriteLine("Anna toka numero");
             int toka = Convert.ToInt32(Console.ReadLine());
             Console.WriteLine("Summa : " + (eka + toka));
-            Console.WriteLine("Erotus : " + (eka - toka));
             Thread.Sleep(3000);
 
 
